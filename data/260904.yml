@@ -1,11 +1,13 @@
 about:
-  description: Play Tetris in your terminal.
+  description:
+  |
+    Play Tetris in your terminal.
   license: GPL-3.0
   homepage: 
   head: 79fb413
   archived: false
   latestVersion: v0.2.0
-  collectedAt: 2026-09-04T03:46:14Z
+  collectedAt: 2026-09-04T19:20:37Z
 timeline:
   created: 2023-11-12
   lastCommit: 2026-04-05
@@ -16,17 +18,25 @@ popularity:
   fork: 26
   release: 5
   contributor: 4
-  pullRequest: 3
+  pullRequest: 40
   issue: 13
 language:
   Go: 208454
   Nix: 2847
   Shell: 573
   Dockerfile: 183
-totalLine: 212057
+totalBytes: 212057
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -57,3 +67,21 @@ recent:
     closedIssue: 2
     openIssue: 2
     commit: 5
+  last720d:
+    since: 2024-09-14
+    release: 3
+    mergedPR: 22
+    openPR: 0
+    closedIssue: 7
+    openIssue: 4
+    commit: 22
+total:
+  release: 5
+  mergedPR: 37
+  openPR: 0
+  closedIssue: 8
+  openIssue: 5
+  commit: 305
+---
+---
+
