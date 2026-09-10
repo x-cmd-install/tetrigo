@@ -1,0 +1,36 @@
+- repo: aur
+  srcname: tetrigo
+  binname: tetrigo
+  visiblename: tetrigo
+  version: 0.2.0
+  origversion: 0.2.0-1
+  status: newest
+  summary: Play Tetris in your terminal.
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: tetrigo-bin
+  binname: tetrigo-bin
+  visiblename: tetrigo-bin
+  version: 0.2.0
+  origversion: 0.2.0-1
+  status: newest
+  summary: Play Tetris in your terminal.
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - GPL-3.0
+- repo: freebsd
+  srcname: games/tetrigo
+  binname: tetrigo
+  visiblename: games/tetrigo
+  version: 0.2.0
+  origversion: 0.2.0_16
+  status: newest
+  summary: Tetris in terminal
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - games
