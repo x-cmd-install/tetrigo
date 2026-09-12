@@ -47,12 +47,12 @@ Total: **8,531** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 0 | 2 | 0 | 0 | 0 | 2 |
-| 360d | 2025-09-16 | 0 | 5 | 0 | 2 | 2 | 5 |
-| last720d | 2024-09-21 | 3 | 22 | 0 | 7 | 4 | 22 |
+| 30d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-16 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 360d | 2025-09-17 | 0 | 4 | 0 | 2 | 2 | 5 |
+| last720d | 2024-09-22 | 3 | 22 | 0 | 7 | 4 | 22 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for tetrigo lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:54:11Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:57:11Z._
