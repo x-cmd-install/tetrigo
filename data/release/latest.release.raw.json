@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3788322,
       "digest": null,
-      "download_count": 585,
+      "download_count": 588,
       "created_at": "2024-12-27T04:39:15Z",
       "updated_at": "2024-12-27T04:39:15Z",
       "browser_download_url": "https://github.com/Broderick-Westrope/tetrigo/releases/download/v0.2.0/tetrigo_0.2.0_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3883387,
       "digest": null,
-      "download_count": 278,
+      "download_count": 279,
       "created_at": "2024-12-27T04:39:15Z",
       "updated_at": "2024-12-27T04:39:15Z",
       "browser_download_url": "https://github.com/Broderick-Westrope/tetrigo/releases/download/v0.2.0/tetrigo_0.2.0_windows_amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3626186,
       "digest": null,
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2024-12-27T04:39:15Z",
       "updated_at": "2024-12-27T04:39:15Z",
       "browser_download_url": "https://github.com/Broderick-Westrope/tetrigo/releases/download/v0.2.0/tetrigo_0.2.0_windows_arm64.zip"
